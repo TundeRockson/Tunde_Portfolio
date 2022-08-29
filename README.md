@@ -11,3 +11,4 @@ In this project, I tried to provide better data about the top 50 solar flares re
 
 # [Project 3: Moneyball] (add link)
 In this project, I applied data wrangling and exploratory data analysis skills to baseball data. In particular, I want to understand how efficient teams have been historically at spending money and getting wins in return.
+![](https://github.com/TundeRockson/Tunde_Portfolio/blob/main/images/MCDMONE_EC011_H_256706.jpeg)
